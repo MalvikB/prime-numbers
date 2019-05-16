@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class L_PIERWSZE 
+public class prime-numbers 
 {	
 	public static void main(String[] args) 
 	{
